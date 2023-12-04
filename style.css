@@ -11,6 +11,8 @@ html { box-sizing: border-box; }
  POUZITE PISMO
  Source Sans Pro - rezy pisma light 300, regular 400 a bold 700
 https://fonts.google.com/specimen/Source+Sans+Pro
+font-family: 'Source Sans 3', sans-serif;
+
 */
 
 body {
@@ -31,3 +33,4 @@ body {
 }
 
 /* ----- zde začni psát vlastní CSS ----- */
+
